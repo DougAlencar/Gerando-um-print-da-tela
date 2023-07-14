@@ -1,5 +1,4 @@
 function teste (){
-    alert("oi")
 	// cria um elemento de div para selecionar a área
 	const selector = document.createElement('div');
 	selector.style.position = 'fixed';
